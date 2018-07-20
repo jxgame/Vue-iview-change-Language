@@ -1,6 +1,6 @@
 # Vue iview 下拉菜单 切换语言 Demo
 
-![](https://github.com/shidavid/Vue-iview-change-Language/Jietu20180720-142440-HD)
+![](https://github.com/shidavid/Vue-iview-change-Language/Jietu20180720-142440-HD.gif)
 
 ## Build Setup
 
